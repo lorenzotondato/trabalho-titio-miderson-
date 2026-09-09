@@ -311,3 +311,23 @@ h1, h2, h3 { font-family: 'Oswald', sans-serif; text-transform: uppercase; }
 footer { text-align: center; padding: 50px 10%; margin-top: 60px; border-top: 1px solid #eee; background: rgba(255,255,255,0.5); }
 footer p { font-size: 13px; color: #777; margin-bottom: 8px; }
 footer strong { color: #111; }
+
+/* Ajuste para diminuir o ícone no canto superior direito */
+.school-icon-corner {
+    height: 50
+px; 
+/* Reduzido para um tamanho de ícone mais discreto */
+    width: auto;  /* Mantém a proporção original para não distorcer a imagem */
+    margin-left: 15px;
+    vertical-align: middle;
+    padding-left: 15px;
+    border-left: 1px solid #ddd; /* Linha de separação entre o menu e o ícone */
+}
+/* Ajuste para diminuir o ícone no canto superior direito */
+.school-icon-corner {
+    height: 50px; /* Reduzido para um tamanho de ícone mais discreto */
+    width: auto;  /* Mantém a proporção original para não distorcer a imagem */
+    margin-left: 15px;
+    vertical-align: middle;
+    padding-left: 15px;
+    border-left: 1px solid #ddd; /* Linha de separação entre o menu e o ícone */
